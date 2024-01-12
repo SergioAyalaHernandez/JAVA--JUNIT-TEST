@@ -42,6 +42,13 @@ En las carpetas de cada test, estarán con nombres intuitivos varias implementac
 
 - ** return_movies_by_genre **: Comprueba que se devuelven películas por género.
 - ** return_movies_by_length **: Asegura que se devuelven películas según su duración.
+- 
+#### Pruebas de `Calculator`
+
+- ** total_zero_when_there_are_prices **: Comprueba que el total es cero cuando no hay precios añadidos.
+- ** total_is_the_sum_of_prices **: Asegura que el total es la suma de los precios añadidos.
+- ** apply_discount_to_prices **: Verifica que se aplique correctamente un descuento a la suma de los precios.
+
 
 ### Construido con
 
